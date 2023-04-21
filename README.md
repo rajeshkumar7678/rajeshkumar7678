@@ -4,7 +4,7 @@
   <img align="left" alt="Rajesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="rajeshkumar7678.github.io">
+<a href="https://rajeshkumar7678.github.io/">
   <img align="left" alt="Rajesh's LinkedIN" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IjFQsSsuejWmnFaQ24eSmP_PfCrqBjXJSg&usqp=CAU" />
 </a>
 <br>
