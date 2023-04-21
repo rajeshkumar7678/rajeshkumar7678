@@ -2,7 +2,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajesh-kumar-99a67524b/) 
 <br>
-[![LinkedIn](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IjFQsSsuejWmnFaQ24eSmP_PfCrqBjXJSg&usqp=CAU)](https://rajeshkumar7678.github.io)
+[![portfolio](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IjFQsSsuejWmnFaQ24eSmP_PfCrqBjXJSg&usqp=CAU)](https://rajeshkumar7678.github.io)
+<br>[[[portfolio](https://rajeshkumar7678.github.io)']](https://rajeshkumar7678.github.io)
 
 
 
