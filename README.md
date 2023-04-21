@@ -1,11 +1,32 @@
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## I'm Rajesh Kumar
+<a href="https://www.linkedin.com/in/rajesh-kumar-99a67524b/">
+  <img align="left" alt="Rajesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
+<a href="rajeshkumar7678.github.io">
+  <img align="left" alt="Rajesh's LinkedIN" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IjFQsSsuejWmnFaQ24eSmP_PfCrqBjXJSg&usqp=CAU" />
+</a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajesh-kumar-99a67524b/) 
-<br>
-[![portfolio](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IjFQsSsuejWmnFaQ24eSmP_PfCrqBjXJSg&usqp=CAU)](https://rajeshkumar7678.github.io)
-<br>a href="https://rajeshkumar7678.github.io"
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ 
+ - 🔭 I'm Masai School Student.
 
+ - 🔭 I’m  A Student, Learner and passionate Node Backend developer 🚀
 
+ - I am passionate about technology and want to learn & explore new technologies
+
+ - I’m living  in Ghaziabad Uttar Pradesh
+
+- 🌱 Learning **Node Backend & Full-Stack Web Development**
+
+- 👨‍💻  my portfolio are available at [rajeshkumar7678.github.io](rajeshkumar7678.github.io)
+
+- 📫 Reach me at  **mr.rajeshkumar7678gmail.com**
+
+- 🎯 Hobbies :**coding📕 | exploring | travelling | playing chess 🪴***
+
+- ⚡ fav line :**prepare yourself for the moment that you are waiting for 🫀:**
 
 
 # 💻 Tech Stack:
@@ -18,10 +39,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rajeshkumar7678&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=rajeshkumar7678&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
