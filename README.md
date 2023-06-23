@@ -1,11 +1,11 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## I'm Rajesh Kumar
 <a href="https://www.linkedin.com/in/rajesh-kumar-99a67524b/">
-  <img align="left" alt="Rajesh's LinkedIN" width="22px" src="https://unsplash.com/photos/DuA2f9jNoD8" />
+  LINKEDIN 
 </a>
 <br>
 <a href="https://rajeshkumar7678.github.io/">
-  <img align="left" alt="Rajesh's LinkedIN" width="120px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IjFQsSsuejWmnFaQ24eSmP_PfCrqBjXJSg&usqp=CAU" />
+  <img align="left" alt="Rajesh's Github" width="120px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IjFQsSsuejWmnFaQ24eSmP_PfCrqBjXJSg&usqp=CAU" />
 </a>
 <br>
 <br>
